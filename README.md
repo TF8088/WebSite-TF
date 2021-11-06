@@ -1,2 +1,2 @@
-# Tiago-F.-Portfolio---Website-HTML-CSS-JAVASCRIPT
+# Tiago F. Portfolio - Website HTML/CSS/JAVASCRIPT
 Portfolio created and designed by Tiago F, all my projects and my adventures about the great world of IT/programming...
